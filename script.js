@@ -4,7 +4,6 @@ const answers = [
   "Take a breath and think again. 🧘",
   "Not the right time. ⏳",
   "Absolutely yes! ✅",
-  "Ask your mom 😂",
   "Try it and see what happens!",
   "Just do it with good intentions 🍀"
 ];
