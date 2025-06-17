@@ -13,7 +13,7 @@ A clean and interactive decision-making web app built using HTML,CSS, and JavaSc
 - Vanilla JavaScript
 
 ## 🌐 Live Demo
-(https://lamzef-achraf.github.io/Decision-Maker/)
+https://lamzef-achraf.github.io/Decision-Maker/
 
 ---
 
