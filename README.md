@@ -8,9 +8,9 @@ A clean and interactive decision-making web app built using HTML,CSS, and JavaSc
 - Mobile-friendly and responsive.
 
 ## 🛠 Technologies
-- HTML5
-- CSS3
-- Vanilla JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## 🌐 Live Demo
 https://lamzef-achraf.github.io/Decision-Maker/
